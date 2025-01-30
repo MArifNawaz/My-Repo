@@ -2,3 +2,4 @@ Console.WritLine("My Name Is Arif");
 Console.WritLine("My Roll-No is 83");
 Console.WritLine("2nd_Semester Subject Names ");
 Console.WritLine("My 1st Semester Subjests Are");
+Console.WritLine("Fsc Subjects Name");
